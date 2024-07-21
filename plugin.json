@@ -1,0 +1,10 @@
+{
+    "name": "Slick-Pay Gateway",
+    "namespace": "Botble\\Slickpay\\",
+    "provider": "Botble\\Slickpay\\Providers\\SlickpayServiceProvider",
+    "author": "Slick-Pay",
+    "url": "https://slickpay-pay.com",
+    "version": "1.0",
+    "description": "Slick-Pay payment gateway integration",
+    "require": ["payment"]
+}

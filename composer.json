@@ -1,0 +1,8 @@
+{
+    "name": "botble/slickpay",
+    "description": "Slick-Pay Payment Gateway",
+    "type": "package",
+    "require": {
+        "slick-pay-algeria/transfer-laravel": "dev-master"
+    }
+}
